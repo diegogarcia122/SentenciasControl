@@ -1,3 +1,3 @@
 # SentenciasControl
 
-Primer dia - Se completo todo el Formulario Logico.
+29/09 - Se completo todo el Formulario Logico.
